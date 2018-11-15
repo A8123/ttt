@@ -1,0 +1,147 @@
+2018-10-12-main-INFO -com.cg.bms.presentation.BMSMain:log4j configured..
+2018-10-12-main-INFO -com.cg.bms.presentation.BMSMain:invalid option selected
+2018-10-12-main-INFO -com.cg.bms.presentation.BMSMain:log4j configured..
+2018-10-12-main-INFO -com.cg.bms.presentation.BMSMain:selected option is1
+2018-10-12-main-INFO -com.cg.bms.presentation.BMSMain:account object created1500.0
+2018-10-12-main-INFO -com.cg.bms.service.AccountServiceImpl:in validation account method
+2018-10-12-main-INFO -com.cg.bms.service.AccountServiceImpl:in name validation method
+2018-10-12-main-INFO -com.cg.bms.service.AccountServiceImpl:in balance validation metod
+2018-10-12-main-INFO -com.cg.bms.service.AccountServiceImpl:in date validation method
+2018-10-12-main-INFO -com.cg.bms.presentation.BMSMain:log4j configured..
+2018-10-12-main-INFO -com.cg.bms.presentation.BMSMain:selected option is1
+2018-10-12-main-INFO -com.cg.bms.presentation.BMSMain:account object created150000.0
+2018-10-12-main-INFO -com.cg.bms.service.AccountServiceImpl:in validation account method
+2018-10-12-main-INFO -com.cg.bms.service.AccountServiceImpl:in name validation method
+2018-10-12-main-INFO -com.cg.bms.service.AccountServiceImpl:in balance validation metod
+2018-10-12-main-INFO -com.cg.bms.service.AccountServiceImpl:in date validation method
+2018-10-12-main-INFO -com.cg.bms.presentation.BMSMain:log4j configured..
+2018-10-12-main-INFO -com.cg.bms.presentation.BMSMain:selected option is1
+2018-10-12-main-ERROR-com.cg.bms.presentation.BMSMain:entered amount is not correct
+2018-10-12-main-INFO -com.cg.bms.presentation.BMSMain:log4j configured..
+2018-10-12-main-INFO -com.cg.bms.presentation.BMSMain:selected option is1
+2018-10-12-main-INFO -com.cg.bms.presentation.BMSMain:account object created50000.0
+2018-10-12-main-INFO -com.cg.bms.service.AccountServiceImpl:in validation account method
+2018-10-12-main-INFO -com.cg.bms.service.AccountServiceImpl:in name validation method
+2018-10-12-main-INFO -com.cg.bms.service.AccountServiceImpl:in balance validation metod
+2018-10-12-main-INFO -com.cg.bms.service.AccountServiceImpl:in date validation method
+2018-10-12-main-INFO -com.cg.bms.presentation.BMSMain:log4j configured..
+2018-10-12-main-INFO -com.cg.bms.presentation.BMSMain:selected option is1
+2018-10-12-main-INFO -com.cg.bms.presentation.BMSMain:account object created1500.0
+2018-10-12-main-INFO -com.cg.bms.service.AccountServiceImpl:in validation account method
+2018-10-12-main-INFO -com.cg.bms.service.AccountServiceImpl:in name validation method
+2018-10-12-main-INFO -com.cg.bms.service.AccountServiceImpl:in balance validation metod
+2018-10-12-main-INFO -com.cg.bms.service.AccountServiceImpl:in date validation method
+2018-10-12-main-INFO -com.cg.bms.presentation.BMSMain:log4j configured..
+2018-10-12-main-INFO -com.cg.bms.presentation.BMSMain:selected option is1
+2018-10-12-main-INFO -com.cg.bms.presentation.BMSMain:account object created20000.0
+2018-10-12-main-INFO -com.cg.bms.service.AccountServiceImpl:in validation account method
+2018-10-12-main-INFO -com.cg.bms.service.AccountServiceImpl:in name validation method
+2018-10-12-main-INFO -com.cg.bms.service.AccountServiceImpl:in balance validation metod
+2018-10-12-main-INFO -com.cg.bms.service.AccountServiceImpl:in date validation method
+2018-10-12-main-INFO -com.cg.bms.service.AccountServiceImpl:in account service class
+2018-10-12-main-INFO -com.cg.bms.dao.AccountDaoImpl:connection established
+2018-10-12-main-INFO -com.cg.bms.dao.AccountDaoImpl:statement created
+2018-10-12-main-ERROR-com.cg.bms.dao.AccountDaoImpl:Statement object not created
+2018-10-12-main-INFO -com.cg.bms.presentation.BMSMain:log4j configured..
+2018-10-12-main-INFO -com.cg.bms.presentation.BMSMain:selected option is1
+2018-10-12-main-INFO -com.cg.bms.presentation.BMSMain:account object created40000.0
+2018-10-12-main-INFO -com.cg.bms.service.AccountServiceImpl:in validation account method
+2018-10-12-main-INFO -com.cg.bms.service.AccountServiceImpl:in name validation method
+2018-10-12-main-INFO -com.cg.bms.service.AccountServiceImpl:in balance validation metod
+2018-10-12-main-INFO -com.cg.bms.service.AccountServiceImpl:in date validation method
+2018-10-12-main-INFO -com.cg.bms.service.AccountServiceImpl:in account service class
+2018-10-12-main-INFO -com.cg.bms.dao.AccountDaoImpl:connection established
+2018-10-12-main-INFO -com.cg.bms.dao.AccountDaoImpl:statement created
+2018-10-12-main-INFO -com.cg.bms.dao.AccountDaoImpl:connection established
+2018-10-12-main-INFO -com.cg.bms.dao.AccountDaoImpl:statement created
+2018-10-13-main-INFO -com.cg.bms.presentation.BMSMain:log4j configured..
+2018-10-13-main-INFO -com.cg.bms.presentation.BMSMain:selected option is1
+2018-10-13-main-INFO -com.cg.bms.presentation.BMSMain:account object created500000.0
+2018-10-13-main-INFO -com.cg.bms.service.AccountServiceImpl:in validation account method
+2018-10-13-main-INFO -com.cg.bms.service.AccountServiceImpl:in name validation method
+2018-10-13-main-INFO -com.cg.bms.service.AccountServiceImpl:in balance validation metod
+2018-10-13-main-INFO -com.cg.bms.service.AccountServiceImpl:in date validation method
+2018-10-13-main-INFO -com.cg.bms.service.AccountServiceImpl:in account service class
+2018-10-13-main-INFO -com.cg.bms.dao.AccountDaoImpl:connection established
+2018-10-13-main-INFO -com.cg.bms.dao.AccountDaoImpl:statement created
+2018-10-13-main-INFO -com.cg.bms.presentation.BMSMain:log4j configured..
+2018-10-13-main-INFO -com.cg.bms.presentation.BMSMain:selected option is1
+2018-10-13-main-INFO -com.cg.bms.presentation.BMSMain:account object created50000.0
+2018-10-13-main-INFO -com.cg.bms.service.AccountServiceImpl:in validation account method
+2018-10-13-main-INFO -com.cg.bms.service.AccountServiceImpl:in name validation method
+2018-10-13-main-INFO -com.cg.bms.service.AccountServiceImpl:in balance validation metod
+2018-10-13-main-INFO -com.cg.bms.service.AccountServiceImpl:in date validation method
+2018-10-13-main-INFO -com.cg.bms.service.AccountServiceImpl:in account service class
+2018-10-13-main-INFO -com.cg.bms.dao.AccountDaoImpl:connection established
+2018-10-13-main-INFO -com.cg.bms.dao.AccountDaoImpl:statement created
+2018-10-13-main-INFO -com.cg.bms.presentation.BMSMain:log4j configured..
+2018-10-13-main-INFO -com.cg.bms.presentation.BMSMain:selected option is1
+2018-10-13-main-INFO -com.cg.bms.presentation.BMSMain:account object created15000.0
+2018-10-13-main-INFO -com.cg.bms.service.AccountServiceImpl:in validation account method
+2018-10-13-main-INFO -com.cg.bms.service.AccountServiceImpl:in name validation method
+2018-10-13-main-INFO -com.cg.bms.service.AccountServiceImpl:in balance validation metod
+2018-10-13-main-INFO -com.cg.bms.service.AccountServiceImpl:in date validation method
+2018-10-13-main-INFO -com.cg.bms.service.AccountServiceImpl:in account service class
+2018-10-13-main-INFO -com.cg.bms.dao.AccountDaoImpl:connection established
+2018-10-13-main-INFO -com.cg.bms.dao.AccountDaoImpl:statement created
+2018-10-13-main-INFO -com.cg.bms.presentation.BMSMain:log4j configured..
+2018-10-13-main-INFO -com.cg.bms.presentation.BMSMain:selected option is1
+2018-10-13-main-INFO -com.cg.bms.presentation.BMSMain:account object created15000.0
+2018-10-13-main-INFO -com.cg.bms.service.AccountServiceImpl:in validation account method
+2018-10-13-main-INFO -com.cg.bms.service.AccountServiceImpl:in name validation method
+2018-10-13-main-INFO -com.cg.bms.service.AccountServiceImpl:in balance validation metod
+2018-10-13-main-INFO -com.cg.bms.service.AccountServiceImpl:in date validation method
+2018-10-13-main-INFO -com.cg.bms.presentation.BMSMain:log4j configured..
+2018-10-13-main-INFO -com.cg.bms.presentation.BMSMain:selected option is1
+2018-10-13-main-INFO -com.cg.bms.presentation.BMSMain:account object created15000.0
+2018-10-13-main-INFO -com.cg.bms.service.AccountServiceImpl:in validation account method
+2018-10-13-main-INFO -com.cg.bms.service.AccountServiceImpl:in name validation method
+2018-10-13-main-INFO -com.cg.bms.service.AccountServiceImpl:in balance validation metod
+2018-10-13-main-INFO -com.cg.bms.service.AccountServiceImpl:in date validation method
+2018-10-13-main-INFO -com.cg.bms.presentation.BMSMain:log4j configured..
+2018-10-13-main-INFO -com.cg.bms.presentation.BMSMain:selected option is1
+2018-10-13-main-INFO -com.cg.bms.presentation.BMSMain:account object created15000.0
+2018-10-13-main-INFO -com.cg.bms.service.AccountServiceImpl:in validation account method
+2018-10-13-main-INFO -com.cg.bms.service.AccountServiceImpl:in name validation method
+2018-10-13-main-INFO -com.cg.bms.service.AccountServiceImpl:in balance validation metod
+2018-10-13-main-INFO -com.cg.bms.service.AccountServiceImpl:in date validation method
+2018-10-13-main-INFO -com.cg.bms.service.AccountServiceImpl:in account service class
+2018-10-13-main-INFO -com.cg.bms.dao.AccountDaoImpl:connection established
+2018-10-13-main-INFO -com.cg.bms.dao.AccountDaoImpl:statement created
+2018-10-13-main-INFO -com.cg.bms.presentation.BMSMain:log4j configured..
+2018-10-13-main-INFO -com.cg.bms.presentation.BMSMain:selected option is1
+2018-10-13-main-INFO -com.cg.bms.presentation.BMSMain:account object created15000.0
+2018-10-13-main-INFO -com.cg.bms.service.AccountServiceImpl:in validation account method
+2018-10-13-main-INFO -com.cg.bms.service.AccountServiceImpl:in name validation method
+2018-10-13-main-INFO -com.cg.bms.service.AccountServiceImpl:in balance validation metod
+2018-10-13-main-INFO -com.cg.bms.service.AccountServiceImpl:in date validation method
+2018-10-13-main-INFO -com.cg.bms.service.AccountServiceImpl:in account service class
+2018-10-13-main-INFO -com.cg.bms.dao.AccountDaoImpl:connection established
+2018-10-13-main-INFO -com.cg.bms.dao.AccountDaoImpl:statement created
+2018-11-03-main-INFO -com.cg.bms.presentation.BMSMain:log4j configured..
+2018-11-03-main-INFO -com.cg.bms.presentation.BMSMain:selected option is1
+2018-11-03-main-INFO -com.cg.bms.presentation.BMSMain:account object created5000.0
+2018-11-03-main-INFO -com.cg.bms.service.AccountServiceImpl:in validation account method
+2018-11-03-main-INFO -com.cg.bms.service.AccountServiceImpl:in name validation method
+2018-11-03-main-INFO -com.cg.bms.service.AccountServiceImpl:in balance validation metod
+2018-11-03-main-INFO -com.cg.bms.service.AccountServiceImpl:in date validation method
+2018-11-03-main-INFO -com.cg.bms.presentation.BMSMain:log4j configured..
+2018-11-03-main-INFO -com.cg.bms.presentation.BMSMain:selected option is1
+2018-11-03-main-INFO -com.cg.bms.presentation.BMSMain:account object created7000.0
+2018-11-03-main-INFO -com.cg.bms.service.AccountServiceImpl:in validation account method
+2018-11-03-main-INFO -com.cg.bms.service.AccountServiceImpl:in name validation method
+2018-11-03-main-INFO -com.cg.bms.service.AccountServiceImpl:in balance validation metod
+2018-11-03-main-INFO -com.cg.bms.service.AccountServiceImpl:in date validation method
+2018-11-03-main-INFO -com.cg.bms.service.AccountServiceImpl:in account service class
+2018-11-03-main-INFO -com.cg.bms.dao.AccountDaoImpl:connection established
+2018-11-03-main-INFO -com.cg.bms.dao.AccountDaoImpl:statement created
+2018-11-03-main-INFO -com.cg.bms.presentation.BMSMain:log4j configured..
+2018-11-03-main-INFO -com.cg.bms.presentation.BMSMain:selected option is1
+2018-11-03-main-INFO -com.cg.bms.presentation.BMSMain:account object created70000.0
+2018-11-03-main-INFO -com.cg.bms.service.AccountServiceImpl:in validation account method
+2018-11-03-main-INFO -com.cg.bms.service.AccountServiceImpl:in name validation method
+2018-11-03-main-INFO -com.cg.bms.service.AccountServiceImpl:in balance validation metod
+2018-11-03-main-INFO -com.cg.bms.service.AccountServiceImpl:in date validation method
+2018-11-03-main-INFO -com.cg.bms.service.AccountServiceImpl:in account service class
+2018-11-03-main-INFO -com.cg.bms.dao.AccountDaoImpl:connection established
+2018-11-03-main-INFO -com.cg.bms.dao.AccountDaoImpl:statement created
